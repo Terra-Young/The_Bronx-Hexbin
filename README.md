@@ -20,4 +20,4 @@ To identify true infrastructure strain, I engineered a spatial autocorrelation m
 * **NYC Open Data:** Motor Vehicle Collisions and LION Street networks.
 
 ## Explore the Map
-[Insert Link to your Web Map Here]
+[(https://terra-young.github.io/The_Bronx-Hexbin/#12/40.8503/-73.8493)]
